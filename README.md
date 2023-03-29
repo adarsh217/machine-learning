@@ -1,4 +1,4 @@
-# VR11KLE - Human Body Pose Estimation and Body Gestures Classification
+# Human Body Pose Estimation and Body Gestures Classification
 
 This repository contains 3 main folders used for: 
 1. Collecting annotated body keypoints from Posenet
